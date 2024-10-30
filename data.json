@@ -1,0 +1,130 @@
+{
+    "members": [
+        {
+            "id": "1",
+            "name": "Arman Roshannai",
+            "percentage": "13.72",
+            "trait_1": {
+                "answer": "Farsi",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "2.60",
+                "question": "Languages"
+            },
+            "trait_2": {
+                "answer": "Hockey",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "4.40",
+                "question": "Sport"
+            },
+            "trait_3": {
+                "answer": "Very important to me",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "3.00",
+                "question": "Nurturance"
+            },
+            "trait_4": {
+                "answer": "College Department",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "3.51",
+                "question": "Factors of Importance"
+            },
+            "trait_5": {
+                "answer": "Information & Computer Sciences",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "4.29",
+                "question": "College Department"
+            },
+            "type": "Romantic"
+        },
+        {
+            "id": "2",
+            "name": "keyan kazemian",
+            "percentage": "4.05",
+            "trait_1": {
+                "answer": "Farsi",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "2.60",
+                "question": "Languages"
+            },
+            "trait_2": {
+                "answer": "Information & Computer Sciences",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "4.29",
+                "question": "College Department"
+            },
+            "trait_3": {
+                "answer": "University of California, Irvine",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "4.45",
+                "question": "University"
+            },
+            "trait_4": {
+                "answer": "Photography",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "7.25",
+                "question": "Favorite Hobby"
+            },
+            "trait_5": {
+                "answer": 1,
+                "is_scale": true,
+                "max_val": 7,
+                "percentage": "9.18",
+                "question": "Humans are born with an innate purpose"
+            },
+            "type": "Idealist"
+        },
+        {
+            "id": "3",
+            "name": "Danial Hashemi",
+            "percentage": "13.72",
+            "trait_1": {
+                "answer": "Iran, Islamic Republic of...",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "0.16",
+                "question": "Country"
+            },
+            "trait_2": {
+                "answer": "Very important to me",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "2.44",
+                "question": "Risks"
+            },
+            "trait_3": {
+                "answer": "Farsi",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "2.60",
+                "question": "Languages"
+            },
+            "trait_4": {
+                "answer": 5,
+                "is_scale": true,
+                "max_val": 7,
+                "percentage": "2.93",
+                "question": "Assisting in death"
+            },
+            "trait_5": {
+                "answer": "Not important to me",
+                "is_scale": false,
+                "max_val": 0,
+                "percentage": "3.00",
+                "question": "Wealth"
+            },
+            "type": "Stoic"
+        }
+
+    ]
+
+
+}
